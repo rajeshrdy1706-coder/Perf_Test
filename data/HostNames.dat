@@ -1,0 +1,11 @@
+[hosts]
+detectportal.firefox.com=
+content-signature-2.cdn.mozilla.net=
+petstore.octoperf.com=
+firefox.settings.services.mozilla.com=
+ads.mozilla.org=
+merino.services.mozilla.com=
+safebrowsing.googleapis.com=
+push.services.mozilla.com=
+aus5.mozilla.org=
+incoming.telemetry.mozilla.org=

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 15 Aug 2025 10:21:56 GMT
+Content-Type: application/json
+Vary: Accept-Encoding
+x-request-id: eb8f862a6ede4a1781132b0a4c793c3d
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

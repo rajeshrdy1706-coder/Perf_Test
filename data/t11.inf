@@ -1,0 +1,11 @@
+[t11]
+FileName1=t11.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/0ccde626-4229-4671-a5b3-d9eb07855ffd
+Total=1
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=t11_RequestBody.txt
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_11.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

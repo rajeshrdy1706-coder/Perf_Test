@@ -1,0 +1,13 @@
+[t8]
+FileName1=t8_update.xml
+URL1=https://aus5.mozilla.org/update/6/Firefox/141.0.3/20250806102122/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%252010.0.0.0.19045.5247%2520(x64)/ISET%3ASSE4_2%2CMEM%3A8107/default/default/update.xml?force=1
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+FileName2=t8_jpetstore.css
+URL2=https://petstore.octoperf.com/css/jpetstore.css
+[ProtocolInfo]
+ProtocolId=QTWeb

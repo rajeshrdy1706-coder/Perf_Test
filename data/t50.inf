@@ -1,0 +1,11 @@
+[t50]
+FileName1=t50.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/82660ea0-8c74-4ac3-821f-d1a5f84d4a04
+Total=1
+RequestHeaderFile=t50_RequestHeader.txt
+RequestBodyFile=t50_RequestBody.txt
+ResponseHeaderFile=t50_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_50.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,8 @@
+"{\"metrics\":{\"datetime\":{\"usage.first_run_date\":\"2025-08-12+05:30\"},\"counter\":{\"brow"
+"ser.engagement.active_ticks\":21},\"uuid\":{\"usage.profile_group_id\":\"7483ad54-dd91-40eb-a8"
+"e8-ca93a6393c4a\",\"usage.profile_id\":\"98c1c9cf-5bcd-4518-8f8e-b491e7223a58\"},\"boolean\":{"
+"\"usage.windows_backup_enabled\":true,\"usage.is_default_browser\":false},\"quantity\":{\"usag"
+"e.windows_build_number\":19045,\"usage.windows_user_profile_age_in_days\":425},\"string\":{\"u"
+"sage.distribution_id\":\"default\",\"usage.app_build\":\"20250806102122\",\"usage.app_display_"
+"version\":\"141.0.3\",\"usage.os_version\":\"10.0\",\"usage.app_channel\":\"release\",\"usage."
+"os\":\"WINNT\"}}}"

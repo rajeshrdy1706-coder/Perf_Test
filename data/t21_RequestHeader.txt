@@ -1,0 +1,17 @@
+POST https://incoming.telemetry.mozilla.org/submit/firefox-desktop/use-counters/1/2006a29c-5270-4e65-bda7-6299ff0b4b4c HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, zstd
+content-encoding: gzip
+x-telemetry-agent: Glean/64.4.0 (Rust on Windows)
+Content-Type: application/json; charset=utf-8
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Host: incoming.telemetry.mozilla.org
+Content-Length: 2731
+
