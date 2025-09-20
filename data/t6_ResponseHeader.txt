@@ -1,11 +1,9 @@
-HTTP/1.1 200 OK
-Server: nginx
-Date: Fri, 15 Aug 2025 10:21:56 GMT
-Content-Type: application/json
-Vary: Accept-Encoding
-x-request-id: eb8f862a6ede4a1781132b0a4c793c3d
-Strict-Transport-Security: max-age=31536000
-Content-Encoding: gzip
-Via: 1.1 google
-Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+HTTP/1.1 200 
+Date: Fri, 15 Aug 2025 10:26:19 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4736
+Connection: keep-alive
+Set-Cookie: JSESSIONID=31A6B5BB5654501D92C29FC014974F2E; Path=/; HttpOnly
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 

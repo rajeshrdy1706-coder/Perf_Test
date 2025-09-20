@@ -1,3 +1,0 @@
-"{\"utc_offset\":6,\"coarse_os\":\"windows\",\"surface_id\":\"\",\"inferredInterests\":null,\"l"
-"ocale\":\"en-US\",\"region\":\"IN\",\"topics\":[],\"sections\":[],\"enableInterestPicker\":fal"
-"se}"

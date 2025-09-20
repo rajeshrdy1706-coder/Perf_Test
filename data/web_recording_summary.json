@@ -1,10 +1,6 @@
 {
   "FilterHeaders": [
     {
-      "Header": "x-telemetry-agent",
-      "IncludeInScript": false
-    },
-    {
       "Header": "user-agent",
       "IncludeInScript": false
     },
@@ -65,24 +61,12 @@
       "IncludeInScript": false
     },
     {
-      "Header": "if-none-match",
-      "IncludeInScript": false
-    },
-    {
-      "Header": "if-modified-since",
-      "IncludeInScript": false
-    },
-    {
-      "Header": "content-encoding",
-      "IncludeInScript": false
-    },
-    {
       "Header": "cache-control",
       "IncludeInScript": false
     },
     {
       "Header": "accept-language",
-      "IncludeInScript": false
+      "IncludeInScript": true
     },
     {
       "Header": "accept-encoding",
@@ -94,14 +78,6 @@
     }
   ],
   "FilterResources": [
-    {
-      "IsNonResource": true,
-      "type": "text/xml"
-    },
-    {
-      "IsNonResource": false,
-      "type": "text/plain"
-    },
     {
       "IsNonResource": true,
       "type": "text/html"
@@ -117,29 +93,21 @@
     {
       "IsNonResource": false,
       "type": "image/gif"
-    },
-    {
-      "IsNonResource": false,
-      "type": "binary/octet-stream"
-    },
-    {
-      "IsNonResource": true,
-      "type": "application/json"
     }
   ],
   "GeneralInfo": {
     "BrowserVersion": "",
     "IsWinInetMode": false,
-    "MaxUsedConnections": 57,
+    "MaxUsedConnections": 29,
     "RecordedBrowser": "Firefox",
     "RecordingDate": "Aug-15-2025",
     "RecordingDuration": 91719,
     "RecordingMode": "N/A",
     "RecordingTimeStamp": 1755253295,
     "RecordingType": "Proxy",
-    "TotalBytesReceived": 94628,
-    "TotalBytesSent": 132581,
-    "TotalRequests": 57,
+    "TotalBytesReceived": 88628,
+    "TotalBytesSent": 16964,
+    "TotalRequests": 29,
     "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
   },
   "HostInfo": [
@@ -382,7 +350,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "34.120.208.123",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "incoming.telemetry.mozilla.org",
           "Port": 443,
           "Requests": [
@@ -573,7 +541,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "[2600:1901:0:5133::]",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "aus5.mozilla.org",
           "Port": 443,
           "Requests": [
@@ -593,7 +561,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "34.36.137.203",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "ads.mozilla.org",
           "Port": 443,
           "Requests": [
@@ -619,7 +587,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "[2600:1901:0:92a9::]",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "content-signature-2.cdn.mozilla.net",
           "Port": 443,
           "Requests": [
@@ -654,7 +622,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "34.107.243.93",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "push.services.mozilla.com",
           "Port": 443,
           "Requests": [
@@ -716,7 +684,7 @@
         {
           "HTTPVersion": "HTTP/1.1",
           "IP": "[2600:1901:0:38d7::]",
-          "IncludeInScript": true,
+          "IncludeInScript": false,
           "Name": "detectportal.firefox.com",
           "Port": 80,
           "Requests": [
@@ -768,5 +736,5 @@
     "IncludeInScript": false,
     "IsScriptIncludeWebSocket": false
   },
-  "NumberOfCorrelations": 0
+  "NumberOfCorrelations": 2
 }

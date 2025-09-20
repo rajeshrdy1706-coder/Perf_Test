@@ -1,11 +1,11 @@
 [t4]
-FileName1=t4.json
-URL1=https://ads.mozilla.org/v1/ads
+FileName1=t4.htm
+URL1=https://petstore.octoperf.com/actions/Catalog.action
 Total=1
 RequestHeaderFile=t4_RequestHeader.txt
-RequestBodyFile=t4_RequestBody.txt
+RequestBodyFile=NONE
 ResponseHeaderFile=t4_ResponseHeader.txt
-ContentType=application/json
+ContentType=text/html
 SnapshotXmlFile=snapshot_4.xml
 [ProtocolInfo]
 ProtocolId=QTWeb

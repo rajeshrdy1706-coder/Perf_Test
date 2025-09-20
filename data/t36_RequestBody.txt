@@ -1,8 +1,0 @@
-"{\"metrics\":{\"counter\":{\"browser.engagement.active_ticks\":2,\"browser.engagement.uri_coun"
-"t\":3},\"quantity\":{\"usage.windows_build_number\":19045,\"usage.windows_user_profile_age_in_"
-"days\":425},\"uuid\":{\"usage.profile_group_id\":\"7483ad54-dd91-40eb-a8e8-ca93a6393c4a\",\"us"
-"age.profile_id\":\"98c1c9cf-5bcd-4518-8f8e-b491e7223a58\"},\"string\":{\"usage.app_build\":\"2"
-"0250806102122\",\"usage.os_version\":\"10.0\",\"usage.distribution_id\":\"default\",\"usage.os"
-"\":\"WINNT\",\"usage.app_channel\":\"release\",\"usage.app_display_version\":\"141.0.3\"},\"bo"
-"olean\":{\"usage.is_default_browser\":false,\"usage.windows_backup_enabled\":true},\"datetime\""
-":{\"usage.first_run_date\":\"2025-08-12+05:30\"}}}"

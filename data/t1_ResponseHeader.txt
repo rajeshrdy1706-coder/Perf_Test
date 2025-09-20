@@ -1,9 +1,10 @@
-HTTP/1.1 200 OK
-Server: nginx
-Content-Length: 90
-Via: 1.1 google
-Date: Thu, 14 Aug 2025 15:46:52 GMT
-Age: 66892
+HTTP/1.1 200 
+Date: Fri, 15 Aug 2025 10:24:57 GMT
 Content-Type: text/html
-Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+Content-Length: 1156
+Connection: keep-alive
+Accept-Ranges: bytes
+ETag: W/"1156-1670877034000"
+Last-Modified: Mon, 12 Dec 2022 20:30:34 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 

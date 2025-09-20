@@ -1,11 +1,19 @@
-POST https://ads.mozilla.org/v1/ads HTTP/1.1
+POST https://petstore.octoperf.com/actions/Account.action HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-Accept: */*
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate, zstd
-Content-Type: application/json
-Priority: u=4
-Host: ads.mozilla.org
-Content-Length: 223
-Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Origin: https://petstore.octoperf.com
+Sec-GPC: 1
+Referer: https://petstore.octoperf.com/actions/Account.action;jsessionid=99167B314E53118C26C76A9D1EE6D473?signonForm=
+Cookie: JSESSIONID=99167B314E53118C26C76A9D1EE6D473
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Host: petstore.octoperf.com
+Content-Length: 231
 
